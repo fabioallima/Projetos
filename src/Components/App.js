@@ -6,7 +6,7 @@ export default class App extends React.Component {
     return (
       <div>
         <h1>Hello World</h1>
-        <Post title="Teste React" post="Raphael front end"/>
+        <Post title="Teste React" post="Front end"/>
         <Post title="Aprendendo JS" post="Bom post"/>
         <Post title="Aprendendo React" post="Bom post"/>
       </div>
